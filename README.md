@@ -81,7 +81,7 @@ COMMAND
   update   update corresponding url of the given shortened url.
 ```
 
-## CLI Interface for Weather forecast（天気予報）
+### CLI Interface for Weather forecast（天気予報）
 
 CLIで天気予報を取得する．
 
